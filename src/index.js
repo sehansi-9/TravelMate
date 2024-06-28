@@ -10,7 +10,7 @@ const config = {
   signOutRedirectURL: "https://travelmatebysp.netlify.app/",
   clientID: "5KTRz5YmNe9Vl5tuKSiS_zLCfAEa",
   baseUrl: "https://api.asgardeo.io/t/sehansi",
-  scope: ['openid','profile']
+  scope: ['openid','profile'],
 };
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

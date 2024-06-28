@@ -12,7 +12,7 @@ export const Header = () => {
           <>
             <div className="center-panel" id="center-panel"style={{marginLeft:"-400px"}}>
             <a href="/book" className="nav active" id="insights">
-            Bookings
+            
           </a>
             </div>
             <div className="right-panel">
