@@ -6,8 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import { AuthProvider } from "@asgardeo/auth-react";
 
 const config = {
-  signInRedirectURL: "http://localhost:3000/",
-  signOutRedirectURL: "http://localhost:3000/",
+  signInRedirectURL: "https://travelmatebysp.netlify.app/",
+  signOutRedirectURL: "https://travelmatebysp.netlify.app/",
   clientID: "5KTRz5YmNe9Vl5tuKSiS_zLCfAEa",
   baseUrl: "https://api.asgardeo.io/t/sehansi",
   scope: ['openid','profile']
