@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { AuthProvider, useAuthContext } from "@asgardeo/auth-react";
+import { AuthProvider } from "@asgardeo/auth-react";
 
 const config = {
   signInRedirectURL: "http://localhost:3000/",
