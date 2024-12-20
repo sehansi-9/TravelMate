@@ -15,7 +15,7 @@ export const BookingPage = () => {
       </div>
       <div class="flight-item">
                   <span class="flight-item-title">Flight 6373839 (Narita)</span>
-                  <img class="flight-item-image" src="https://static.gltjp.com/glt/prd/data/directory/13000/12501/20221214_000730_5cc9dda6_w1920.jpg" alt="narita"></img>
+                  <img class="flight-item-image" src="https://img.freepik.com/premium-photo/beautiful-pink-sakura-flower-tree-airplane-with-blue-sky_50039-763.jpg" alt="narita"></img>
                   <div className="details-book">
                   <button type="button">Details</button>
                   <button type="button"><a href="/book/narita">Book</a></button>
